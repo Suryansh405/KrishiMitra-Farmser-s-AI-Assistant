@@ -26,7 +26,7 @@ AgriGenius is a comprehensive web-based agricultural decision support system tha
 
 ### Keywords
 
-Artificial Intelligence, Precision Agriculture, Computer Vision, RAG (Retrieval-Augmented Generation), Crop Disease Detection, Resource Optimization, Location-Based Services, Sustainable Farming, Multi-Modal AI, Agricultural Decision Support System
+"Artificial Intelligence", Precision Agriculture, Computer Vision, RAG (Retrieval-Augmented Generation), Crop Disease Detection, Resource Optimization, Location-Based Services, Sustainable Farming, Multi-Modal AI, Agricultural Decision Support System
 
 ---
 
