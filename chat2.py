@@ -26,7 +26,7 @@ def analyze_image_with_text(image_base64, user_query="What do you see in this im
     """Analyze image using Groq's vision model for agriculture."""
     try:
         response = groq_client.chat.completions.create(
-            model="meta-llama/llama-4-maverick-17b-128e-instruct",
+            model="meta-llama/llama-4-scout-17b-16e-instruct",
             messages=[
                 {
                     "role": "system",
@@ -67,7 +67,7 @@ def analyze_crop_disease(image_base64, mime_type="image/jpeg"):
     """Specialized crop disease detection."""
     try:
         response = groq_client.chat.completions.create(
-            model="meta-llama/llama-4-maverick-17b-128e-instruct",
+            model="meta-llama/llama-4-scout-17b-16e-instruct",
             messages=[
                 {
                     "role": "system",
